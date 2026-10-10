@@ -7,12 +7,18 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 - **Part 2 — Professional Python:** functions in depth, iterators/generators, exceptions, file handling, OOP, modules/packages, testing, environments, and AI-oriented coding practices.
 
 ## Part 1 Materials
-- [Study slides (PowerPoint)](slides/HBE_2206_Python_Part1_Study_Slides.pptx)
-- [Study reference (PDF)](slides/HBE_2206_Python_Part1_Study_Reference.pdf)
+
+### Code and exercises
 - [Practice notebook](code/Python_Part1_Practice.ipynb)
 - [Runnable examples](code/python_part1_examples.py)
 - [Exercises](exercises/README.md)
 - [Exercise solutions](exercises/solutions.py)
+
+### Slide design
+- [HBE_2206 visual design guide](slides/DESIGN_GUIDE.md)
+- [PowerPoint/PDF upload note](slides/FILES_PENDING_UPLOAD.md)
+
+The editable PowerPoint and PDF are currently available as downloads from the ChatGPT conversation. They have not yet been committed as binary files to this repository.
 
 ## Recommended workflow
 1. Review the study slides.
@@ -29,4 +35,4 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 ## Brand
 All materials are part of the **HBE_2206 Python Learning Series**.
 
-> This repository is a learning reference. Code examples and outputs should be run and reviewed locally before being used in a production project.
+> This repository is a learning reference. Run and review code examples locally before using them in a production project.
