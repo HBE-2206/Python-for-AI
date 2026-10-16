@@ -48,7 +48,12 @@ Build a command-line program that adds student records, validates scores from 0 
 - `assert` is useful for simple checks but can be disabled with Python optimization; do not use it for essential runtime validation.
 - These are educational examples. Review and test code before reusing it in a production project.
 
+## Contact & Profiles
+- **Author:** Hazem Elshafey
+- **GitHub:** [HBE-2206](https://github.com/HBE-2206)
+- **LinkedIn:** [Hazem Elshafey](https://www.linkedin.com/in/hazem-el-shafey-b56405331/)
+- **Email:** [hm2502630@gmail.com](mailto:hm2502630@gmail.com)
+- **WhatsApp:** [01552694877](https://wa.me/201552694877)
+
 ## Links
 - [Repository](https://github.com/HBE-2206/Python-for-AI)
-- [GitHub profile](https://github.com/HBE-2206)
-- [LinkedIn](https://www.linkedin.com/in/hazem-el-shafey-b56405331/)
