@@ -36,5 +36,12 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 - Jupyter Notebook or Google Colab for notebooks.
 - Part 2 examples use the Python standard library.
 
+## Contact & Profiles
+- **Author:** Hazem Elshafey
+- **GitHub:** [HBE-2206](https://github.com/HBE-2206)
+- **LinkedIn:** [Hazem Elshafey](https://www.linkedin.com/in/hazem-el-shafey-b56405331/)
+- **Email:** [hm2502630@gmail.com](mailto:hm2502630@gmail.com)
+- **WhatsApp:** [01552694877](https://wa.me/201552694877)
+
 ## Brand
 The repository is part of the **HBE_2206 Python Learning Series**. Study materials use the **HAZEM ELSHAFEY** personal brand and charcoal, cream, yellow, orange, and blue visual identity.
