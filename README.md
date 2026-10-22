@@ -5,7 +5,7 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 ## Learning Series
 - **Part 1 — Core Python Foundations:** syntax, variables, data types, operators, strings, data structures, conditions, loops, and beginner problem solving.
 - **Part 2 — Professional Python:** functions, comprehensions, exceptions, file handling, JSON, OOP, modules/packages, testing, environments, and a Student Record Manager mini-project.
-- **Part 3 — NumPy for AI:** planned next.
+- **Part 3 — Python AI Libraries:** NumPy for numerical computing and Pandas for data analysis and cleaning.
 
 ## Part 1 Materials
 - [Practice notebook](code/Python_Part1_Practice.ipynb)
@@ -23,6 +23,11 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 - [Reference solutions](part-2/solutions.py)
 - [Slide files note](slides/FILES_PENDING_UPLOAD_PART2.md)
 
+## Python AI Libraries
+- [Libraries learning hub](libraries/README.md)
+- [NumPy for AI — detailed Jupyter notebook](libraries/numpy/NumPy_for_AI_Study_Notes.ipynb)
+- [Pandas for AI — detailed Jupyter notebook](libraries/pandas/Pandas_for_AI_Study_Notes.ipynb)
+
 ## Recommended workflow
 1. Read the study notebook or slides.
 2. Predict each output before running the code.
@@ -34,7 +39,7 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 ## Requirements
 - Python 3.10 or later recommended.
 - Jupyter Notebook or Google Colab for notebooks.
-- Part 2 examples use the Python standard library.
+- Install data libraries with `python -m pip install numpy pandas jupyter`.
 
 ## Contact & Profiles
 - **Author:** Hazem Elshafey
