@@ -19,7 +19,7 @@ Part 2 builds on Core Foundations and focuses on writing reusable, maintainable 
 ## Contents
 | Path | Purpose |
 |---|---|
-| `code/Python_Part2_Study_Notes.ipynb` | Detailed explanations, runnable examples, and expected outputs |
+| `part-2/Python_Part2_Study_Notes.ipynb` | Detailed explanations, runnable examples, and expected outputs |
 | `code/python_part2_examples.py` | Runnable script demonstrating the core concepts |
 | `exercises/part2_exercises.md` | Practice tasks, organized by topic |
 | `part-2/solutions.py` | Reference solutions and simple automated checks |
@@ -56,4 +56,6 @@ Build a command-line program that adds student records, validates scores from 0 
 - **WhatsApp:** [01552694877](https://wa.me/201552694877)
 
 ## Links
+- [Part 1 — Core Foundations](../part-1/README.md)
+- [Part 2 notebook](Python_Part2_Study_Notes.ipynb)
 - [Repository](https://github.com/HBE-2206/Python-for-AI)
