@@ -130,6 +130,7 @@ Python-for-AI/
 - [NumPy — detailed notebook](libraries/numpy/NumPy_for_AI_Study_Notes.ipynb)
 - [Pandas — detailed notebook](libraries/pandas/Pandas_for_AI_Study_Notes.ipynb)
 - [Matplotlib — detailed notebook](libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
+- [Mini-project — Retail Sales Analysis with NumPy, Pandas, and Matplotlib](libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
 
 ## How to study
 
