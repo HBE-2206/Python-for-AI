@@ -55,6 +55,14 @@ Matplotlib is a Python plotting library used to create charts and customize figu
 
 Use the notebook as the detailed technical companion. Keep the slide/post design system separate from notebook content so notebooks stay readable, runnable, and useful as references.
 
+## Mini-project: Retail Sales Analysis
+
+Apply all three libraries in one workflow: create a small synthetic retail dataset, inspect and validate it, calculate summary metrics with NumPy, group data with Pandas, and visualize category and monthly trends with Matplotlib.
+
+- [Open the Retail Sales Analysis notebook](mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
+
+The dataset is synthetic and intended for learning—not real business decisions. Run the notebook from top to bottom.
+
 ## Getting started
 
 From the repository root:
