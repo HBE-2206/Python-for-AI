@@ -113,7 +113,7 @@ Python-for-AI/
 - [Part 1 runnable examples](code/python_part1_examples.py)
 
 ### Professional Python
-- [Part 2 detailed notebook](code/Python_Part2_Study_Notes.ipynb)
+- [Part 2 detailed notebook](part-2/Python_Part2_Study_Notes.ipynb)
 - [Part 2 runnable examples](code/python_part2_examples.py)
 - [Part 2 guide](part-2/README.md)
 - [Part 2 exercises](exercises/part2_exercises.md)
