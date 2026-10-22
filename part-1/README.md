@@ -9,8 +9,8 @@ Start here if you are new to Python. Work through the study notebook in order, r
 
 | Resource | Purpose |
 |---|---|
-| [Part 1 Study Notes](../code/Python_Part1_Study_Notes.ipynb) | Detailed lessons and examples for core Python |
-| [Part 1 Practice Notebook](../code/Python_Part1_Practice.ipynb) | Hands-on practice alongside the lessons |
+| [Part 1 Study Notes](Python_Part1_Study_Notes.ipynb) | Detailed lessons and examples for core Python |
+| [Part 1 Practice Notebook](Python_Part1_Practice.ipynb) | Hands-on practice alongside the lessons |
 | [Runnable Examples (.py)](../code/python_part1_examples.py) | Run the examples as a Python script |
 | [Part 1 Exercises](../exercises/README.md) | Additional exercises; try them before checking answers |
 | [Exercise Solutions](../exercises/solutions.py) | Reference solutions for self-checking |
