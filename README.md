@@ -27,6 +27,7 @@ A structured, practical Python learning series preparing for AI and Machine Lear
 - [Libraries learning hub](libraries/README.md)
 - [NumPy for AI — detailed Jupyter notebook](libraries/numpy/NumPy_for_AI_Study_Notes.ipynb)
 - [Pandas for AI — detailed Jupyter notebook](libraries/pandas/Pandas_for_AI_Study_Notes.ipynb)
+- [Matplotlib for AI — detailed Jupyter notebook](libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
 
 ## Recommended workflow
 1. Read the study notebook or slides.
