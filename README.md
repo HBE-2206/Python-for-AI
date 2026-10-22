@@ -90,8 +90,13 @@ Python-for-AI/
 │   ├── README.md
 │   ├── solutions.py
 │   └── part2_exercises.md
+├── part-1/
+│   ├── README.md
+│   ├── Python_Part1_Study_Notes.ipynb
+│   └── Python_Part1_Practice.ipynb
 ├── part-2/
 │   ├── README.md
+│   ├── Python_Part2_Study_Notes.ipynb
 │   └── solutions.py
 ├── libraries/
 │   ├── README.md
@@ -108,8 +113,9 @@ Python-for-AI/
 ## Start learning
 
 ### Python foundations
-- [Part 1 study notes](code/Python_Part1_Study_Notes.ipynb)
-- [Part 1 practice notebook](code/Python_Part1_Practice.ipynb)
+- [Part 1 folder and guide](part-1/README.md)
+- [Part 1 study notes](part-1/Python_Part1_Study_Notes.ipynb)
+- [Part 1 practice notebook](part-1/Python_Part1_Practice.ipynb)
 - [Part 1 runnable examples](code/python_part1_examples.py)
 
 ### Professional Python
