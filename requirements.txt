@@ -1,0 +1,6 @@
+# Core learning dependencies
+numpy
+pandas
+matplotlib
+jupyter
+notebook
