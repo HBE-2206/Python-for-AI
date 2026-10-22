@@ -1,38 +1,28 @@
-# Python for AI — NumPy & Pandas Libraries
+# Python AI Libraries — Learning Hub
 
-**Author:** Hazem Elshafey · **Brand:** HAZEM ELSHAFEY / HBE_2206
+**HAZEM ELSHAFEY | HBE_2206**  
+Part 3 of the Python for AI learning series.
 
-This section contains detailed, beginner-friendly notebooks for the core Python data libraries used in AI and machine learning.
+## Learning sequence
+1. **NumPy** — numerical arrays and calculations.
+2. **Pandas** — tabular data loading, cleaning, and analysis.
+3. **Matplotlib — CURRENT TOPIC** — data visualization and charts.
 
-## Learning path
-1. **NumPy for AI** — arrays, shapes, data types, indexing, vectorization, aggregation, masking, broadcasting, reshaping, random numbers, linear algebra and feature scaling.
-2. **Pandas for AI** — Series/DataFrames, CSV I/O, selection, filtering, missing data, duplicates, transformations, sorting, grouping, merging, dates and exploratory analysis.
+Matplotlib is the current stage in the learning roadmap, following NumPy and Pandas and preparing learners to explore datasets and communicate findings before deeper Machine Learning.
 
-## Notebooks
-- [NumPy for AI — detailed Jupyter notebook](numpy/NumPy_for_AI_Study_Notes.ipynb)
-- [Pandas for AI — detailed Jupyter notebook](pandas/Pandas_for_AI_Study_Notes.ipynb)
+## Materials
+- [NumPy for AI — Study Notes](numpy/NumPy_for_AI_Study_Notes.ipynb)
+- [Pandas for AI — Study Notes](pandas/Pandas_for_AI_Study_Notes.ipynb)
+- [Matplotlib for AI — Detailed Study Notes](matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
 
-Each notebook includes concept explanations, code cells, expected output, practice tasks and reference examples. Run the cells in order; outputs shown in Markdown are expected results and may differ in formatting across library versions.
+## Matplotlib topics
+Installation and imports; line, bar, scatter, histogram, and pie charts; multiple series; labels, legends, grids, and annotations; figure size and subplots; saving charts; Matplotlib with Pandas; chart selection; exercises; knowledge check; troubleshooting.
 
-## Setup
-```bash
-python -m pip install numpy pandas jupyter
-jupyter notebook
-```
-Google Colab generally includes NumPy and Pandas preinstalled.
+## Brand and formatting
+The PowerPoint/post identity uses charcoal `#191919`, yellow `#FFDC52`, white `#FFFFFF`, cream `#FAF8F0`, orange `#FF6B35`, and a blue accent. Keep each visual focused on one concept, with explanation first and code/output immediately below. The notebook is the detailed technical companion, not a poster.
 
-## Suggested workflow
-1. Read the explanation and predict the output.
-2. Run the code cell and compare results.
-3. Modify the data and experiment.
-4. Complete practice tasks without looking at reference code first.
-5. Keep training data separate from validation/test data when preparing ML workflows to avoid data leakage.
-
-## Visual identity
-Charcoal `#191919`, yellow `#FFDC52`, white `#FFFFFF`, cream `#FAF8F0`, orange `#FF6B35`. Use the existing HBE_2206 Python Series identity.
-
-## Contact
-- GitHub: [HBE-2206](https://github.com/HBE-2206)
-- LinkedIn: [Hazem Elshafey](https://www.linkedin.com/in/hazem-el-shafey-b56405331/)
-- Email: [hm2502630@gmail.com](mailto:hm2502630@gmail.com)
-- WhatsApp: [Contact](https://wa.me/201552694877)
+**Author:** Hazem Elshafey  
+**GitHub:** https://github.com/HBE-2206  
+**LinkedIn:** https://www.linkedin.com/in/hazem-el-shafey-b56405331/  
+**Email:** hm2502630@gmail.com  
+**WhatsApp:** https://wa.me/201552694877
