@@ -9,7 +9,7 @@ This repository area organizes training content into teachable modules that incl
 
 ## Learning path
 
-1. **Prerequisites & Python for AI** — Python, NumPy, Pandas, visualization, basic statistics.
+1. **Prerequisites & Python for AI** — Python, NumPy, Pandas, [Data Visualization with Matplotlib & Seaborn](python-for-ai/visualization/README.md), then Math & Statistics for ML.
 2. **Machine Learning** — problem framing, data preparation, supervised learning, unsupervised learning, evaluation, pipelines, and model interpretation.
 3. **Deep Learning** — neural network fundamentals, training loops, regularization, CNNs, sequence models, and practical evaluation.
 4. **Specialization paths** — Computer Vision, NLP, and LLMs, developed after the foundations.
