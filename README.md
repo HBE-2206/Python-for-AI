@@ -132,6 +132,21 @@ Python-for-AI/
 - [Matplotlib — detailed notebook](libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
 - [Mini-project — Retail Sales Analysis with NumPy, Pandas, and Matplotlib](libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
 
+## Open notebooks in Google Colab
+
+Use the buttons below to run the notebooks in Google Colab. Opening a notebook from GitHub does not automatically save edits back to this repository; after editing, use **File → Save a copy in GitHub** and select this repository.
+
+| Notebook | Open in Colab |
+|---|---|
+| NumPy for AI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/numpy/NumPy_for_AI_Study_Notes.ipynb) |
+| Pandas for AI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/pandas/Pandas_for_AI_Study_Notes.ipynb) |
+| Matplotlib for AI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb) |
+| Retail Sales mini-project | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb) |
+| Data Visualization module | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/python-for-ai/visualization/notebooks/Data_Visualization_Matplotlib_Seaborn.ipynb) |
+| ML Fundamentals | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-00-fundamentals/notebooks/ML_00_Fundamentals_and_Workflow.ipynb) |
+
+---
+
 ## How to study
 
 1. Read the learning objectives and concept explanation.
