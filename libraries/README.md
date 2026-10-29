@@ -5,6 +5,17 @@ A practical bridge from Python foundations to data analysis and Machine Learning
 
 > **Current topic: Matplotlib** — the third library in the learning sequence.
 
+## Open in Google Colab
+
+- [NumPy notebook](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/numpy/NumPy_for_AI_Study_Notes.ipynb)
+- [Pandas notebook](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/pandas/Pandas_for_AI_Study_Notes.ipynb)
+- [Matplotlib notebook](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
+- [Retail Sales mini-project](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
+
+To save changes back to GitHub from Colab, use **File → Save a copy in GitHub**. Confirm the repository, branch, and destination path before saving.
+
+---
+
 ## Learning sequence
 
 | Order | Library | What it is for | Learning material |
