@@ -132,18 +132,43 @@ Python-for-AI/
 - [Matplotlib — detailed notebook](libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
 - [Mini-project — Retail Sales Analysis with NumPy, Pandas, and Matplotlib](libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
 
-## Open notebooks in Google Colab
+## Open every notebook in Google Colab
 
-Use the buttons below to run the notebooks in Google Colab. Opening a notebook from GitHub does not automatically save edits back to this repository; after editing, use **File → Save a copy in GitHub** and select this repository.
+Each link opens the notebook from this GitHub repository in Google Colab. After editing, use **File → Save a copy in GitHub** to commit your changes back to the repository.
+
+### Python foundations
 
 | Notebook | Open in Colab |
 |---|---|
-| NumPy for AI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/numpy/NumPy_for_AI_Study_Notes.ipynb) |
-| Pandas for AI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/pandas/Pandas_for_AI_Study_Notes.ipynb) |
-| Matplotlib for AI | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb) |
-| Retail Sales mini-project | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb) |
-| Data Visualization module | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/python-for-ai/visualization/notebooks/Data_Visualization_Matplotlib_Seaborn.ipynb) |
-| ML Fundamentals | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-00-fundamentals/notebooks/ML_00_Fundamentals_and_Workflow.ipynb) |
+| Part 1 — Study Notes | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/part-1/Python_Part1_Study_Notes.ipynb) |
+| Part 1 — Practice | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/part-1/Python_Part1_Practice.ipynb) |
+| Part 2 — Study Notes | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/part-2/Python_Part2_Study_Notes.ipynb) |
+
+### Python libraries for AI
+
+| Notebook | Open in Colab |
+|---|---|
+| NumPy for AI | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/numpy/NumPy_for_AI_Study_Notes.ipynb) |
+| Pandas for AI | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/pandas/Pandas_for_AI_Study_Notes.ipynb) |
+| Matplotlib for AI | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb) |
+| Retail Sales Analysis mini-project | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb) |
+
+### Training modules
+
+| Notebook | Open in Colab |
+|---|---|
+| Data Visualization — Matplotlib & Seaborn | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/python-for-ai/visualization/notebooks/Data_Visualization_Matplotlib_Seaborn.ipynb) |
+| ML-00 — Fundamentals & Workflow | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-00-fundamentals/notebooks/ML_00_Fundamentals_and_Workflow.ipynb) |
+
+### Legacy copies under `code/`
+
+These are duplicate copies kept for compatibility with the existing repository structure.
+
+| Notebook | Open in Colab |
+|---|---|
+| Part 1 — Study Notes (code copy) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/code/Python_Part1_Study_Notes.ipynb) |
+| Part 1 — Practice (code copy) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/code/Python_Part1_Practice.ipynb) |
+| Part 2 — Study Notes (code copy) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/code/Python_Part2_Study_Notes.ipynb) |
 
 ---
 
