@@ -46,13 +46,6 @@ Before a module is marked complete:
 
 ## Visual identity
 
-Use the HBE_2206 Python learning-series palette:
-- Charcoal: `#191919`
-- Yellow: `#FFDC52`
-- White: `#FFFFFF`
-- Cream: `#FAF8F0`
-- Orange: `#FF6B35`
-
 Use **HAZEM ELSHAFEY** as the author/brand line. Keep instructional content readable and consistent; notebook cells should prioritize clarity over decorative formatting.
 
 ## Status
