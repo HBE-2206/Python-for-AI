@@ -138,6 +138,9 @@ Python-for-AI/
 - [ML-01 — Algorithms & Practical Foundations](training/ml/ML-01-algorithms/README.md)
 - [ML-01 exercises](training/ml/ML-01-algorithms/exercises/README.md)
 - [ML-01 end-to-end project brief](training/ml/ML-01-algorithms/project/README.md)
+- [K-Means — detailed study guide](training/ml/ML-01-algorithms/kmeans/README.md)
+- [K-Means — exercises](training/ml/ML-01-algorithms/kmeans/exercises/README.md)
+- [K-Means — customer segmentation project](training/ml/ML-01-algorithms/kmeans/project/README.md)
 
 ## Open every notebook in Google Colab
 
@@ -167,6 +170,7 @@ Each link opens the notebook from this GitHub repository in Google Colab. After 
 | Data Visualization — Matplotlib & Seaborn | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/python-for-ai/visualization/notebooks/Data_Visualization_Matplotlib_Seaborn.ipynb) |
 | ML-00 — Fundamentals & Workflow | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-00-fundamentals/notebooks/ML_00_Fundamentals_and_Workflow.ipynb) |
 | ML-01 — Algorithms Hands-on | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/notebooks/ML_01_Algorithms_Hands_On.ipynb) |
+| K-Means Clustering — Hands-on Lab | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/kmeans/notebooks/KMeans_Clustering_Hands_On.ipynb) |
 
 ### Legacy copies under `code/`
 
