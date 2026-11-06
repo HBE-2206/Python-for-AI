@@ -7,9 +7,9 @@ This is the agreed learning sequence. It is a curriculum map, not a claim that e
 
 ## Stage 1 — Python & Data Foundations
 
-1. [Core Python — Part 1](../part-1/README.md)
-2. [Professional Python — Part 2](../part-2/README.md)
-3. [NumPy](../libraries/numpy/NumPy_for_AI_Study_Notes.ipynb)
+1. [Core Python — Part 1](part-1/README.md)
+2. [Professional Python — Part 2](part-2/README.md)
+3. [NumPy](libraries/numpy/NumPy_for_AI_Study_Notes.ipynb)
 4. [Pandas](../libraries/pandas/Pandas_for_AI_Study_Notes.ipynb)
 5. [Data Visualization](training/python-for-ai/visualization/README.md)
 
