@@ -22,6 +22,17 @@ Teach learners to formulate ML problems, prepare data, train and evaluate models
 4. **Decision Trees & Ensembles** — [Guide](training/ml/decision-trees-ensembles/README.md) · [Exercises](training/ml/decision-trees-ensembles/exercises/README.md) · [Project](training/ml/decision-trees-ensembles/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/decision-trees-ensembles/notebooks/decision_trees_ensembles_starter_lab.ipynb)
 5. **Clustering** — [Guide](training/ml/clustering/README.md) · [Exercises](training/ml/clustering/exercises/README.md) · [Project](training/ml/clustering/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/clustering/notebooks/clustering_starter_lab.ipynb)
 
+
+## Open focused topic notebooks in Colab
+
+| Topic | Guide | Notebook |
+|---|---|---|
+| Math & Statistics | [Study guide](math-statistics/README.md) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/math-statistics/notebooks/math_statistics_starter_lab.ipynb) |
+| Regression | [Study guide](regression/README.md) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/regression/notebooks/regression_starter_lab.ipynb) |
+| Classification | [Study guide](classification/README.md) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/classification/notebooks/classification_starter_lab.ipynb) |
+| Decision Trees & Ensembles | [Study guide](decision-trees-ensembles/README.md) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/decision-trees-ensembles/notebooks/decision_trees_ensembles_starter_lab.ipynb) |
+| Clustering | [Study guide](clustering/README.md) | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/clustering/notebooks/clustering_starter_lab.ipynb) |
+
 ## Study order
 
 Start with ML-00, then use ML-01 as the broad algorithm reference and practical introduction. Revisit the dedicated evaluation and unsupervised modules for deeper practice.
