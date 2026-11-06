@@ -12,7 +12,7 @@ Teach learners to formulate ML problems, prepare data, train and evaluate models
 1. **ML-00 — Machine Learning Fundamentals & Workflow**  
    [Open guide](ML-00-fundamentals/README.md) · [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-00-fundamentals/notebooks/ML_00_Fundamentals_and_Workflow.ipynb)
 2. **ML-01 — Machine Learning Algorithms & Practical Foundations**  
-   [Open guide](ML-01-algorithms/README.md) · [Exercises](ML-01-algorithms/exercises/README.md) · [Project brief](ML-01-algorithms/project/README.md) · [Open hands-on notebook in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/notebooks/ML_01_Algorithms_Hands_On.ipynb)
+   [Open guide](ML-01-algorithms/README.md) · [Exercises](ML-01-algorithms/exercises/README.md) · [Project brief](ML-01-algorithms/project/README.md) · [Open hands-on notebook in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/notebooks/ML_01_Algorithms_Hands_On.ipynb) · [K-Means deep dive](ML-01-algorithms/kmeans/README.md) · [K-Means Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/kmeans/notebooks/KMeans_Clustering_Hands_On.ipynb)
 
 ## Next modules (planned)
 
