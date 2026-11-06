@@ -29,7 +29,7 @@ This repository is a structured learning resource by **Hazem Elshafey**. It brin
 | **Part 3A — NumPy** | Arrays, shapes, indexing, vectorized operations, statistics, random values | Library notebook available |
 | **Part 3B — Pandas** | Series/DataFrames, loading data, filtering, cleaning, missing values, grouping, merging | Library notebook available |
 | **Part 3C — Matplotlib** | Choosing charts, labels, legends, subplots, saving figures, plotting tabular data | **Current library topic** |
-| **Next — Machine Learning foundations** | Preparing features and labels, splitting data, baselines, model evaluation | Follow after the library sequence |
+| **Part 4 — Machine Learning** | Fundamentals, data preparation, EDA, regression, classification, clustering, evaluation, projects | ML-00 and ML-01 learning modules added |
 
 The library order is intentional: **NumPy → Pandas → Matplotlib**. Together, they prepare you to manipulate, inspect, and communicate data before moving into Machine Learning.
 
@@ -132,6 +132,13 @@ Python-for-AI/
 - [Matplotlib — detailed notebook](libraries/matplotlib/Matplotlib_for_AI_Study_Notes.ipynb)
 - [Mini-project — Retail Sales Analysis with NumPy, Pandas, and Matplotlib](libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
 
+### Machine Learning
+- [Machine Learning track](training/ml/README.md)
+- [ML-00 — Fundamentals & Workflow](training/ml/ML-00-fundamentals/README.md)
+- [ML-01 — Algorithms & Practical Foundations](training/ml/ML-01-algorithms/README.md)
+- [ML-01 exercises](training/ml/ML-01-algorithms/exercises/README.md)
+- [ML-01 end-to-end project brief](training/ml/ML-01-algorithms/project/README.md)
+
 ## Open every notebook in Google Colab
 
 Each link opens the notebook from this GitHub repository in Google Colab. After editing, use **File → Save a copy in GitHub** to commit your changes back to the repository.
@@ -159,6 +166,7 @@ Each link opens the notebook from this GitHub repository in Google Colab. After 
 |---|---|
 | Data Visualization — Matplotlib & Seaborn | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/python-for-ai/visualization/notebooks/Data_Visualization_Matplotlib_Seaborn.ipynb) |
 | ML-00 — Fundamentals & Workflow | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-00-fundamentals/notebooks/ML_00_Fundamentals_and_Workflow.ipynb) |
+| ML-01 — Algorithms Hands-on | [Open in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/notebooks/ML_01_Algorithms_Hands_On.ipynb) |
 
 ### Legacy copies under `code/`
 
