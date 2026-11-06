@@ -2,10 +2,9 @@
 
 ## Design direction
 - Canvas: portrait PowerPoint for LinkedIn carousel draft (editable).
-- Colors: near-black `#191919`, warm yellow `#FFDC52`, white `#FFFFFF`, light neutral `#FAF8F0`, accent orange `#FF6B35`.
 - Watermark/brand: `HBE_2206`.
-- Cover: dark background, large title, yellow accent bar.
-- Content slides: white background, yellow section banner, dark text, and code card.
+- Cover: dark background, large title, accent bar.
+- Content slides: white background, section banner, dark text, and code card.
 - Footer: `HBE_2206 | PYTHON PART 1` plus slide number.
 
 ## Before publishing
