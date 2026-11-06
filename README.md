@@ -29,9 +29,13 @@ This repository is a structured learning resource by **Hazem Elshafey**. It brin
 | **Part 3A — NumPy** | Arrays, shapes, indexing, vectorized operations, statistics, random values | Library notebook available |
 | **Part 3B — Pandas** | Series/DataFrames, loading data, filtering, cleaning, missing values, grouping, merging | Library notebook available |
 | **Part 3C — Matplotlib** | Choosing charts, labels, legends, subplots, saving figures, plotting tabular data | **Current library topic** |
-| **Part 4 — Machine Learning** | Fundamentals, data preparation, EDA, regression, classification, clustering, evaluation, projects | ML-00 and ML-01 learning modules added |
+| **Part 4 — Machine Learning** | Math & Statistics, ML Fundamentals, Regression, Classification, Decision Trees, Clustering | Detailed guides, exercises, projects and starter notebooks added |
+| **Part 5 — Deep Learning** | Neural networks, optimization, CNNs, RNN/LSTM | Starter modules added |
+| **Part 6 — Specialized AI** | Computer Vision, NLP, Transformers, LLMs and RAG | Starter modules added |
 
 The library order is intentional: **NumPy → Pandas → Matplotlib**. Together, they prepare you to manipulate, inspect, and communicate data before moving into Machine Learning.
+
+- [Complete AI Learning Roadmap](ROADMAP.md)
 
 ## Quick start
 
@@ -133,6 +137,11 @@ Python-for-AI/
 - [Mini-project — Retail Sales Analysis with NumPy, Pandas, and Matplotlib](libraries/mini-projects/Retail_Sales_Analysis_NumPy_Pandas_Matplotlib.ipynb)
 
 ### Machine Learning
+- [Math & Statistics for ML](training/ml/math-statistics/README.md)
+- [Regression](training/ml/regression/README.md)
+- [Classification](training/ml/classification/README.md)
+- [Decision Trees & Ensembles](training/ml/decision-trees-ensembles/README.md)
+- [Clustering](training/ml/clustering/README.md)
 - [Machine Learning track](training/ml/README.md)
 - [ML-00 — Fundamentals & Workflow](training/ml/ML-00-fundamentals/README.md)
 - [ML-01 — Algorithms & Practical Foundations](training/ml/ML-01-algorithms/README.md)
@@ -141,6 +150,14 @@ Python-for-AI/
 - [K-Means — detailed study guide](training/ml/ML-01-algorithms/kmeans/README.md)
 - [K-Means — exercises](training/ml/ML-01-algorithms/kmeans/exercises/README.md)
 - [K-Means — customer segmentation project](training/ml/ML-01-algorithms/kmeans/project/README.md)
+
+### Deep Learning & Specialized AI
+- [Deep Learning](https://github.com/HBE-2206/Python-for-AI/blob/main/training/deep-learning/deep-learning/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/deep-learning/deep-learning/notebooks/deep_learning_starter_lab.ipynb)
+- [CNN](https://github.com/HBE-2206/Python-for-AI/blob/main/training/deep-learning/cnn/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/deep-learning/cnn/notebooks/cnn_starter_lab.ipynb)
+- [Computer Vision](https://github.com/HBE-2206/Python-for-AI/blob/main/training/computer-vision/computer-vision/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/computer-vision/computer-vision/notebooks/computer_vision_starter_lab.ipynb)
+- [RNN & LSTM](https://github.com/HBE-2206/Python-for-AI/blob/main/training/deep-learning/rnn-lstm/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/deep-learning/rnn-lstm/notebooks/rnn_lstm_starter_lab.ipynb)
+- [NLP](https://github.com/HBE-2206/Python-for-AI/blob/main/training/nlp/nlp/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/nlp/nlp/notebooks/nlp_starter_lab.ipynb)
+- [Transformers & LLMs](https://github.com/HBE-2206/Python-for-AI/blob/main/training/llm/transformers-llms/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/llm/transformers-llms/notebooks/transformers_llms_starter_lab.ipynb)
 
 ## Open every notebook in Google Colab
 
