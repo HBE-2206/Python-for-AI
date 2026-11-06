@@ -17,6 +17,10 @@ By the end, you should be able to:
 - Evaluate models with task-appropriate metrics and recognize common limitations.
 - Organize an end-to-end project and explain it in an interview.
 
+## Focused practical lessons
+
+- **K-Means Clustering:** [Study guide](kmeans/README.md) · [Exercises](kmeans/exercises/README.md) · [Customer segmentation project](kmeans/project/README.md) · [Open hands-on notebook in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/kmeans/notebooks/KMeans_Clustering_Hands_On.ipynb)
+
 ## Contents
 
 | Section | Topics |
