@@ -14,16 +14,13 @@ Teach learners to formulate ML problems, prepare data, train and evaluate models
 2. **ML-01 — Machine Learning Algorithms & Practical Foundations**  
    [Open guide](ML-01-algorithms/README.md) · [Exercises](ML-01-algorithms/exercises/README.md) · [Project brief](ML-01-algorithms/project/README.md) · [Open hands-on notebook in Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/notebooks/ML_01_Algorithms_Hands_On.ipynb) · [K-Means deep dive](ML-01-algorithms/kmeans/README.md) · [K-Means Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/ML-01-algorithms/kmeans/notebooks/KMeans_Clustering_Hands_On.ipynb)
 
-## Next modules (planned)
+## Detailed modules
 
-3. **ML-02 — Model Evaluation & Validation**  
-   Cross-validation, class imbalance, threshold selection, confusion matrix, ROC-AUC where appropriate.
-4. **ML-03 — Tree Ensembles & Model Interpretation**  
-   Random forests, gradient boosting concepts, feature importance, limitations.
-5. **ML-04 — Unsupervised Learning in Depth**  
-   Clustering, dimensionality reduction concepts, and appropriate evaluation caveats.
-6. **ML-05 — End-to-End ML Project**  
-   Reproducible preprocessing and modeling, error analysis, documentation, and optional lightweight deployment.
+1. **Math & Statistics** — [Guide](training/ml/math-statistics/README.md) · [Exercises](training/ml/math-statistics/exercises/README.md) · [Project](training/ml/math-statistics/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/math-statistics/notebooks/math_statistics_starter_lab.ipynb)
+2. **Regression** — [Guide](training/ml/regression/README.md) · [Exercises](training/ml/regression/exercises/README.md) · [Project](training/ml/regression/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/regression/notebooks/regression_starter_lab.ipynb)
+3. **Classification** — [Guide](training/ml/classification/README.md) · [Exercises](training/ml/classification/exercises/README.md) · [Project](training/ml/classification/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/classification/notebooks/classification_starter_lab.ipynb)
+4. **Decision Trees & Ensembles** — [Guide](training/ml/decision-trees-ensembles/README.md) · [Exercises](training/ml/decision-trees-ensembles/exercises/README.md) · [Project](training/ml/decision-trees-ensembles/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/decision-trees-ensembles/notebooks/decision_trees_ensembles_starter_lab.ipynb)
+5. **Clustering** — [Guide](training/ml/clustering/README.md) · [Exercises](training/ml/clustering/exercises/README.md) · [Project](training/ml/clustering/project/README.md) · [Colab](https://colab.research.google.com/github/HBE-2206/Python-for-AI/blob/main/training/ml/clustering/notebooks/clustering_starter_lab.ipynb)
 
 ## Study order
 
